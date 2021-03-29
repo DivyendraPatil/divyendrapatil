@@ -13,7 +13,7 @@
 * Always try to find someone to learn from.
 * Don't criticize what you can't understand.
 * Not knowing something does not make you small.
-* Try to take responsibility even when it is not your mistakes. You might make a few friends along the way.
+* Try to take responsibility even when it is not your fault. You might make a few friends along the way.
 <!-- what ends -->
 </td><td valign="top">
 
