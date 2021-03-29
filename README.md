@@ -1,38 +1,21 @@
 ### Hi there 👋
 
-<!--
-**DivyendraPatil/divyendrapatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 ---
-<table><tr><td valign="top">
 
 <!-- what starts -->
-## Work
-* Wear multiple hats, so a little bit of this, a little bit of that.
-* Solve potential problems so they don't become active problems.
-* It's okay to not know or be confused about something. I usually am.
-* Look at memes, cat gifs and dog videos on youtube.
+## Things I've learned the hard way
+* Wearing multiple hats would be the best thing that can happen to you.
+* Always solve potential problems so they don't become active problems.
+* Be humble. There is always someone better and smarter.
+* Ask for help when needed.
+* There are always better ways to do things. You need to settle sometimes.
+* Simple solutions are hard to build.
+* Always try to find someone to learn from.
+* Don't criticize what you can't understand.
+* Not knowing something does not make you small.
+* Try to take responsibility even when it is not your mistakes. You might make a few friends along the way.
 <!-- what ends -->
 </td><td valign="top">
-
-<!-- frog starts -->
-## Typing
-<img src="https://media.divyendra.com/kermit.gif" width="430px" align="center">
-<!-- frog ends -->
-</td></tr></table>
 
 ## Contact
 
@@ -52,9 +35,6 @@ Here are some ideas to get you started:
 
 ## Topics you can indulge me in:
 * Dogs
-* Tech - Infrastructure & Security
-* Spacetime / Astronomy / Astrophysics / Aerospace Engineering
-* Finance - Stocks / Investments
+* Spacetime / Astronomy / Astrophysics / Orbital Mechanics / Astrodynamics / Aerospace Engineering
+* Finance - Investments / Options Trading
 * Outdoor - Running / Bouldering
-
-
