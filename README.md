@@ -35,6 +35,6 @@
 
 ## Topics you can indulge me in:
 * Dogs
-* Spacetime / Astronomy / Astrophysics / Orbital Mechanics / Astrodynamics / Aerospace Engineering
+* Spacetime / Orbital Mechanics / Astrophysics / Aerospace Engineering
 * Finance - Investments / Options Trading
 * Outdoor - Running / Bouldering
