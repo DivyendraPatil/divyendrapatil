@@ -13,16 +13,13 @@
 * Always try to find someone to learn from.
 * Don't criticize what you can't understand.
 * Not knowing something does not make you small.
+* Recklessness is needed to push the pace & boundaries of innovation.
 * Try to take responsibility even when it is not your fault. You might make a few friends along the way.
 <!-- what ends -->
-</td><td valign="top">
 
 ## Contact
 
-* Portfolio/Blog - [divyendra.com](https://divyendra.com)
-* Linkedin - [/in/divyendrapatil/](https://www.linkedin.com/in/divyendrapatil/)
-* Email - [divyendrapatil@icloud.com](mailto:divyendrapatil@icloud.com)
-* Resume - [Link](https://media.divyendra.com/docs/DivyendraPatil_Resume.pdf)
+* [Portfolio](https://divyendra.com) * [Linkedin](https://www.linkedin.com/in/divyendrapatil/) * [Email](mailto:divyendrapatil@icloud.com) * [Resume](https://media.divyendra.com/docs/DivyendraPatil_Resume.pdf)
 
 ## Blogposts
 
