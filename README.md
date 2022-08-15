@@ -19,7 +19,7 @@
 
 ## Contact
 
-* [Portfolio](https://divyendra.com) * [Linkedin](https://www.linkedin.com/in/divyendrapatil/) * [Email](mailto:divyendrapatil@icloud.com) * [Resume](https://media.divyendra.com/docs/DivyendraPatil_Resume.pdf)
+* [Portfolio](https://divyendra.com) * [Linkedin](https://www.linkedin.com/in/divyendrapatil/) * [Email](mailto:hello@divyendra.com) * [Resume](https://media.divyendra.com/docs/DivyendraPatil_Resume.pdf)
 
 ## Blogposts
 
