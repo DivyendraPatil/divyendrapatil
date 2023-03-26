@@ -25,15 +25,10 @@
 * SRE - [Observability & Visibility](https://medium.com/cbi-engineering/sre-101-observability-visibility-f8b4148b0ce1)
 * SRE - [Personal Blog](https://divyendra.com/blogposts/)
 
-## Topics you can indulge me in:
-* Dogs
-* Spacetime 
-* Personal Finance - Investing / Options Trading
-* Outdoor - Running / Rowing / Biking / Bouldering
 
-## Contact
-
-* [Portfolio](https://divyendra.com)
-* [Linkedin](https://www.linkedin.com/in/divyendrapatil/)
-* [Email](mailto:hello@divyendra.com)
-* [Resume](https://media.divyendra.com/docs/DivyendraPatil_Resume.pdf)
+| #Fav Blabber Topics | #Contact                                                             |
+|---------------------|----------------------------------------------------------------------|
+| Dogs                | [Portfolio](https://divyendra.com)                                   |
+| Spacetime           | [Linkedin](https://www.linkedin.com/in/divyendrapatil/)              |
+| Personal Finance    | [Email](mailto:hello@divyendra.com)                                  |
+| Running / Rowing    | [Resume](https://media.divyendra.com/docs/DivyendraPatil_Resume.pdf) |
