@@ -4,18 +4,17 @@
 
 <!-- what starts -->
 ## Things I've learned the hard way
-* Wear multiple hats: Being versatile and able to take on different roles can help you better understand the big picture and be more valuable to your team.
-* Solve potential problems: It's important to be proactive and identify potential issues before they become bigger problems that could impact your project or product.
-* Stay humble: Recognize that you don't know everything, and be open to learning from others. This can help you grow as an engineer and as a person.
-* Ask for help: Don't be afraid to ask for assistance or advice when you need it. This can help you overcome challenges more quickly and effectively.
-* Be willing to compromise: Sometimes the best solution isn't the most complex one. Learn to strike a balance between practicality and innovation.
-* Simplify solutions: Complex problems often have simple solutions. Look for elegant, streamlined solutions that can be implemented quickly and effectively.
-* Seek out mentors: There's always someone who knows more than you do. Seek out experienced engineers and learn from their expertise.
-* Avoid criticism: Don't criticize ideas or approaches that you don't fully understand. Instead, try to learn more about them and approach the situation with an open mind.
-* Embrace your limitations: Recognize that there's always more to learn, and be willing to admit when you don't know something. This can help you stay humble and receptive to new ideas.
-* Take calculated risks: Innovation often requires taking risks. Learn to balance recklessness with practicality, and don't be afraid to push boundaries.
-* Take responsibility: Even when things don't go as planned, be willing to take responsibility and work to make things right. This can help you build strong relationships with your colleagues and clients.
-<!-- what ends -->
+* `Wear multiple hats`: Being versatile and able to take on different roles can help you better understand the big picture and be more valuable to your team.
+* `Solve potential problems`: It's important to be proactive and identify potential issues before they become bigger problems that could impact your project or product.
+* `Stay humble`: Recognize that you don't know everything, and be open to learning from others. This can help you grow as an engineer and as a person.
+* `Ask for help`: Don't be afraid to ask for assistance or advice when you need it. This can help you overcome challenges more quickly and effectively.
+* `Be willing to compromise`: Sometimes the best solution isn't the most complex one. Learn to strike a balance between practicality and innovation.
+* `Simplify solutions`: Complex problems often have simple solutions. Look for elegant, streamlined solutions that can be implemented quickly and effectively.
+* `Seek out mentors`: There's always someone who knows more than you do. Seek out experienced engineers and learn from their expertise.
+* `Avoid criticism`: Don't criticize ideas or approaches that you don't fully understand. Instead, try to learn more about them and approach the situation with an open mind.
+* `Embrace your limitations`: Recognize that there's always more to learn, and be willing to admit when you don't know something. This can help you stay humble and receptive to new ideas.
+* `Take calculated risks`: Innovation often requires taking risks. Learn to balance recklessness with practicality, and don't be afraid to push boundaries.
+* `Take responsibility`: Even when things don't go as planned, be willing to take responsibility and work to make things right. This can help you build strong relationships with your colleagues and clients.<!-- what ends -->
 
 ## Blogposts
 
