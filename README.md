@@ -16,13 +16,3 @@
 * `Balance risk-taking:` Innovate by judiciously weighing risks and practicality.
 * `Own your actions:` Take responsibility for outcomes to strengthen relationships and credibility.
 <!-- what ends -->
-
-## Blogposts
-
-* SRE - [Saving engineering time](https://divyendrapatil.medium.com/how-i-managed-to-save-1500-hours-of-engineering-time-every-year-7d130d896729)
-* SRE - [Container Monitoring At Scale](https://medium.com/cbi-engineering/sre-104-container-monitoring-scale-5fa3c2bf339)
-* SRE - [Find & solve problems that have the greatest impact](https://medium.com/cbi-engineering/sre-103-how-to-find-problems-that-have-the-greatest-impact-f09aa7883464)
-* SRE - [Monitoring + Alerting](https://medium.com/cbi-engineering/sre-102-monitoring-alerting-ae4fc93d47b0)
-* SRE - [Observability & Visibility](https://medium.com/cbi-engineering/sre-101-observability-visibility-f8b4148b0ce1)
-* SRE - [Personal Blog](https://divyendra.com/blogposts/)
-
