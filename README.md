@@ -1,5 +1,3 @@
-# Divyendra Patil
-
 Distributed Systems Engineer | EMT | Researcher
 
 ---
