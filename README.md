@@ -6,7 +6,7 @@ Distributed Systems Engineer | EMT | Researcher
 
 ##  Experience
 
-### **Site Reliability Engineer**, Dotdash Meredith (NYC)
+### **CDN & Infrastructure Architect**, People Inc (NYC)
 _Apr 2021 – Present_
 - 25': Led CDN & DNS migration from Fastly & NS1 to Cloudflare across all sites.
 - 25': Architected & deployed D/Cipher Crawler & Sitemapper pipeline (S3, SQS, ArgoCD).
