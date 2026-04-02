@@ -1,53 +1,64 @@
-Distributed Systems Engineer | EMT | Researcher
+# Hey, I'm Div.
+
+Infrastructure engineer in the New York metro area. I work on the systems that keep websites and apps up, fast, and secure — so when people rely on something online, it's there when they need it.
+
+I'm also a certified EMT in New York State. Some weekends I'm debugging a Kafka cluster; others I'm triaging a patient at a road race. Both involve staying calm when things go sideways.
+
+[![Site](https://img.shields.io/badge/divyendra.com-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white)](https://divyendra.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyendrapatil/)
+[![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@divyendra)
 
 ---
 
-##  Experience
+### What I build at work
 
-### **CDN & Infrastructure Architect**, People Inc (NYC)
-_Apr 2021 – Present_
-- 25': Led CDN & DNS migration from Fastly & NS1 to Cloudflare across all sites.
-- 25': Architected & deployed D/Cipher Crawler & Sitemapper pipeline (S3, SQS, ArgoCD).
-- 24': Built internal DDoS Scrubber tool achieving 80% accuracy.
-- 24': Containerized Redis & RDS in QA, cutting deployment times by 50%.
-- 24': Drove adoption of HTTP/3, SVCB records & 0-RTT on major sites.
-- 23': Integrated Imperva SigSci to mitigate malicious traffic at scale (1B+ reqs/yr).
-- 23': Containerized SOLR for robust production-level traffic handling.
-- 23': Enhanced Kafka resilience with Envoy for seamless node IP changes.
-- 22': Deployed fault-tolerant Elasticsearch (8.x) clusters with APM on EKS.
-- 22': Migrated workloads to Spot & Graviton, saving $1.2M+ annually.
+CDN & infrastructure at **People Inc** (NYC, 2021–present). Before that, SRE at **CB Insights**, DevOps at **RubensteinTech**, and infra at **Meetup**.
 
-### **Emergency Medical Technician**, NYS (Volunteer)
-_Aug 2022 – Present_
-- Certified EMT providing emergency care & first aid at races and events.
-- Conduct patient assessments and monitor vital signs.
-- Collaborate with medical teams to ensure participant safety.
+Day-to-day: Cloudflare, AWS (EKS, Lambda, S3, SQS), Terraform, Kafka, Elasticsearch, Redis, ArgoCD, Docker — keeping distributed systems reliable at scale.
 
-### **Site Reliability Engineer**, CB Insights (NYC)
-_Sep 2019 – Mar 2021_
-- Achieved 90% application-level observability with dashboards, metrics, tracing & logging.
-- Attained 100% service-level visibility via Metricbeat & Elasticsearch.
-- Saved $15k/year by decommissioning unused services.
-- Automated internal serverless tools, saving 1k+ engineer hours annually.
-- Reduced frontend build times from 60 to 10 minutes.
-- Standardized distributed tracing across microservices for rapid debugging.
+A few highlights:
 
-### **DevOps Intern**, RubensteinTech (NYC)
-_Mar 2019 – Aug 2019_
-- Deployed ELK clusters handling logs from 400 servers across environments.
-- Built centralized cron logging mechanism for improved visibility.
-- Automated Nagios alert generation using Ansible.
-
-### **Infrastructure Intern**, MeetUp (NYC)
-_Jun 2018 – Aug 2018_
-- Designed automated alerting pipeline with AWS Lambda & PagerDuty.
+- Led CDN & DNS migration from Fastly + NS1 to Cloudflare across all production sites
+- Architected a crawler & sitemapper pipeline on S3, SQS, and ArgoCD
+- Migrated workloads to Spot & Graviton instances, saving **$1.2M+/year**
+- Deployed fault-tolerant Elasticsearch clusters with APM on EKS
+- Built an internal DDoS scrubber tool (80% detection accuracy)
+- Drove HTTP/3, SVCB, and 0-RTT adoption across major properties
 
 ---
 
-## 🎓 Education
+### What I build on my own time
 
-- **A.A.S. Paramedicine**, City University of New York (Aug ’23 – DNF)
-- **M.S. Cybersecurity**, Stevens Institute of Technology (Aug ’17 – Dec ’18)
-- **B.S. Computer Engineering**, University of Mumbai (Aug ’12 – May ’16)
+| Project | What it is |
+|:--------|:-----------|
+| [**datespots.nyc**](https://datespots.nyc) | Curated date spots for NYC — Cloudflare Workers + KV + AI, fed from Google Sheets, with an [interactive map](https://map.datespots.nyc) and auto-posting to [Threads](https://www.threads.net/@datespots.nyc) |
+| [**Source CIDR**](https://sourcecidr.com) | Registry of official published IP ranges for crawlers, CDNs, cloud providers, and bots — Astro, TypeScript |
+| [**Domain Check**](https://divyendra.com/check/) | Free DNS & email auth checker: SPF, DMARC, DNSSEC, TLS, DKIM, CAA, BIMI, ASN — Cloudflare Worker backend, static frontend |
+| [**Cloud Infra Map**](https://divyendra.com/cloud-infra-map/) | Interactive map of 780+ cloud regions and CDN edges across 16 providers — Leaflet, static data |
+| [**Codenza**](https://codenza.app) | Android app for LeetCode-style reference — ~490k downloads, ~23k peak active users |
 
 ---
+
+### Stack
+
+```text
+Cloud        AWS, GCP
+CDN / Edge   Cloudflare, Fastly
+Containers   Docker, EKS, ArgoCD
+IaC          Terraform
+Data         Kafka, Elasticsearch, Redis, SOLR
+Languages    Python, Go, JavaScript
+Monitoring   APM, Metricbeat, distributed tracing
+```
+
+---
+
+### Education
+
+**M.S. Cybersecurity** — Stevens Institute of Technology ('17–'18)
+**B.S. Computer Engineering** — University of Mumbai ('12–'16)
+**A.A.S. Paramedicine** — City University of New York ('23 — DNF)
+
+---
+
+<sub>Page me once, shame on you. Page me twice, shame on me. Page me thrice, it's going to be a long night.</sub>
