@@ -47,7 +47,7 @@ CDN / Edge     Cloudflare, Fastly
 Containers     Docker, EKS, ArgoCD
 IaC            Terraform
 Data           Kafka, Elasticsearch, Redis, Solr
-Languages      Python, Go, JavaScript
+Languages      Python, Go
 Monitoring     APM, Metricbeat, distributed tracing
 ```
 
