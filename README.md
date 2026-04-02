@@ -42,13 +42,13 @@ A few highlights:
 ### Stack
 
 ```text
-Cloud        AWS, GCP
-CDN / Edge   Cloudflare, Fastly
-Containers   Docker, EKS, ArgoCD
-IaC          Terraform
-Data         Kafka, Elasticsearch, Redis, SOLR
-Languages    Python, Go, JavaScript
-Monitoring   APM, Metricbeat, distributed tracing
+Cloud          AWS, GCP
+CDN / Edge     Cloudflare, Fastly
+Containers     Docker, EKS, ArgoCD
+IaC            Terraform
+Data           Kafka, Elasticsearch, Redis, Solr
+Languages      Python, Go, JavaScript
+Monitoring     APM, Metricbeat, distributed tracing
 ```
 
 ---
@@ -56,9 +56,11 @@ Monitoring   APM, Metricbeat, distributed tracing
 ### Education
 
 **M.S. Cybersecurity** — Stevens Institute of Technology ('17–'18)
+
 **B.S. Computer Engineering** — University of Mumbai ('12–'16)
+
 **A.A.S. Paramedicine** — City University of New York ('23 — DNF)
 
 ---
 
-<sub>Page me once, shame on you. Page me twice, shame on me. Page me thrice, it's going to be a long night.</sub>
+<p align="center"><sub>Page me once, shame on you. Page me twice, shame on me. Page me thrice, it's going to be a long night.</sub></p>
