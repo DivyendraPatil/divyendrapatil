@@ -4,4 +4,5 @@ Infrastructure engineer in the New York metro area.
 
 - [datespots.city](https://datespots.city/)
 - [sourcecidr.com](https://sourcecidr.com/)
+- [edge.sourcecidr.com](https://edge.sourcecidr.com/)
 - [Cloud Infra Map](https://map.sourcecidr.com/)
